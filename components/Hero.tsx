@@ -9,7 +9,8 @@ export default function Hero() {
             Hi, I&apos;m Abdul Mannan
           </h1>
           <p className="text-xl md:text-2xl text-[var(--muted-foreground)] mb-8">
-            A passionate full-stack developer crafting beautiful and functional digital experiences
+           A full-stack developer and AI/ML enthusiast building intelligent, scalable digital solutions.
+           
           </p>
           <div className="flex flex-wrap gap-4">
             <Link href="#projects" className="btn btn-primary">
